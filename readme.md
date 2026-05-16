@@ -1,6 +1,6 @@
 # gives information about climate change 
-!information (bilgi)
-!photo(iklim değişikliği hakkında bilgilendişrici fotolar atsın)
+!information (bilgi)+
+!photo(iklim değişikliği hakkında bilgilendişrici fotolar atsın)+
 !how can we reduce it(azaltmak için yapabileceğimiz şeyler v ersin)
 !recycle(geri dönüşüm hakkında bilgi)
 !recycling bin(geri dönüşüm kutularına hangi maddeleri atacağımız hakkında foto)
